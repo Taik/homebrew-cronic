@@ -1,5 +1,8 @@
 # Homebrew Chronic
 
+**Deprecated. Please use: https://github.com/Taik/homebrew-tools**
+
+
 This tap contains the formula to install [cronic](https://habilis.net/cronic/).
 
 ## How to I install this formula?
